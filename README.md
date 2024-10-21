@@ -1,5 +1,3 @@
-<div align="center">
-  
 # **Earn Crypto with TremorBytes** 🚀💸
 
 **Welcome to TremorBytes!** If you’re looking to earn **Bitcoin**, **Ethereum**, **Litecoin**, **USDT**, **Solana**, and **Dogecoin** by completing quick and simple tasks, **TremorBytes** is the perfect solution for you. 💰
@@ -76,5 +74,3 @@ Your earnings are paid in cryptocurrencies like **Bitcoin**, **Ethereum**, and m
 - **#Ethereum rewards**
 - **#Crypto Telegram bot**
 - **#Best offers for cryptocurrency**
-
-- </div>
