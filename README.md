@@ -29,7 +29,7 @@ TremorBytes is a **Telegram bot** that allows you to earn **cryptocurrency rewar
 ---
 
 ### 🔥 **Special Offers!**
-**Bonus Days until October 30th** 🤑 – Earn 3x more with TremorBytes! Complete offers now and maximize your earnings before the bonus period ends.
+**Bonus Days until November 15th** 🤑 – Earn x2 more with TremorBytes! Complete offers now and maximize your earnings before the bonus period ends.
 ---
 
 ### 🎁 **Referral Program:**
