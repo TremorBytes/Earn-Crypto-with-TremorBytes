@@ -14,7 +14,7 @@ TremorBytes is a **Telegram bot** that allows you to earn **cryptocurrency rewar
 ---
 
 ### 🚀 **How It Works:**
-1. **Join** TremorBytes via [Telegram](https://t.me/tremorbytes_bot) and start using the bot.
+1. **Join** TremorBytes via [Telegram](https://t.me/tremorbytesbot) and start using the bot.
 2. **Complete offers**: Pick from a variety of surveys, apps, or simple tasks and earn crypto rewards.
 3. **Track your earnings** and withdraw directly to your crypto wallet when ready.
 
@@ -44,8 +44,8 @@ Watch this quick video on how to get started with TremorBytes and maximize your 
 ---
 
 ### 📲 **Get Started Now!**
-1. Visit our website to learn more: [TremorBytes Official Website](https://t.me/tremorbytes_bot)
-2. Join us on Telegram: [TremorBytes Telegram Bot](https://t.me/tremorbytes_bot)
+1. Visit our website to learn more: [TremorBytes Official Website](https://t.me/tremorbytesbot)
+2. Join us on Telegram: [TremorBytes Telegram Bot](https://t.me/tremorbytesbot)
 
 ---
 
@@ -60,8 +60,8 @@ Your earnings are paid in cryptocurrencies like **Bitcoin**, **Ethereum**, and m
 ---
 
 ### 🔗 **Connect with Us:**
-- **Website:** [TremorBytes](https://t.me/tremorbytes_bot)
-- **Telegram:** [Join TremorBytes Bot](https://t.me/tremorbytes_bot)
+- **Website:** [TremorBytes](https://t.me/tremorbytesbot)
+- **Telegram:** [Join TremorBytes Bot](https://t.me/tremorbytesbot)
 
 ---
 
